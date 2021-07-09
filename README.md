@@ -12,3 +12,5 @@ In this project we wanted to build a device which can help visually impaired peo
 7. USB to 3.5 mm converter
 8. Chestplate to mount all above items together.
 9. Straps to hold the chestplate 
+
+![image](https://user-images.githubusercontent.com/87189221/125084065-66a3ef00-e0c9-11eb-902d-f078d325e38c.png)
