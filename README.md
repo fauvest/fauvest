@@ -1,6 +1,6 @@
 # Project: Road Scene Understanding for the Visually Impaired
 
-In this project we wanted to build a device which can help visually impaired people while they are on the road. 
+In this project we wanted to build a device which can help visually impaired people while they are on the road. We wanted to make this device portable and light. We use realtime object detection using Nvidia's Jetson Nano developer kit. This can be powered by a powerbank and additional modules like camera, gps, WiFi etc can be attached using various ports available.
 
 **Hardware List**
 1. Jetson Nano developer kit 4GB
