@@ -10,3 +10,5 @@ In this project we wanted to build a device which can help visually impaired peo
 5. Any external Mouse & Keyboard 
 6. Wifi & Bluetooth: Intel 8265 Wireless card with antenna
 7. USB to 3.5 mm converter
+8. Chestplate to mount all above items together.
+9. Straps to hold the chestplate 
