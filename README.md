@@ -14,3 +14,7 @@ In this project we wanted to build a device which can help visually impaired peo
 9. Straps to hold the chestplate 
 
 ![image](https://user-images.githubusercontent.com/87189221/125084065-66a3ef00-e0c9-11eb-902d-f078d325e38c.png)
+
+Output Image: Overlapped image is on the left and mask image is on the right. It is able to segment the sidewalk and the road as well as detect objects like person, car etc using the object detection:
+![image](https://github.com/fauvest/fauvest/blob/main/Output/b_output.jpg)
+
